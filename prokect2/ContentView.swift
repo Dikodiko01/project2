@@ -38,7 +38,7 @@ struct ContentView: View {
                         Text(countries[correctAnswer])
                             .font(.largeTitle.weight(.semibold))
                     }
-
+////sadssasadas
                     ForEach(0..<3) { number in
                         Button {
                             flagTapped(number)
